@@ -22,7 +22,7 @@ DS_Project/
 │       ├── data.csv
 │       └── metadata.csv
 └── output/
-  │       └──regional_gdp_comparison.png
+    └──regional_gdp_comparison.png
 
 ## Getting Started
 
